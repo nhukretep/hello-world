@@ -1,3 +1,8 @@
+---
+title: About
+layout: page
+---
+
 # About the homepage
 
 This homepage is meant to be a playground for my first steps in `markdown` and **github**.
