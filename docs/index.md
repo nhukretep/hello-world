@@ -1,12 +1,10 @@
-# Headline
+# Home
 
-## Second headline
-
-**Content**
-
+## Content
 [Home]
 [About]
 
+## Text
 Text sndvlknörgjaknregökqalwernvöqkwenvöqkwernvökqwernvöqekvn
  ewef jkwefln wefkn **lkefn** _lköwenflkwen_ flkwenm flkwenf lkfwen lfwefnm klen efkn lfkwef
  
