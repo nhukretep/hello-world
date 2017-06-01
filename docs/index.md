@@ -17,5 +17,5 @@ Text sndvlknörgjaknregökqalwernvöqkwenvöqkwernvökqwernvöqekvn
 |1|2|3|
 |4|5|6|
 
-[Home]: nhukretep.github.io/hello-world
-[About]: nhukretep.github.io/hello-world/about
+[Home]: https://nhukretep.github.io/hello-world/
+[About]: https://nhukretep.github.io/hello-world/about
