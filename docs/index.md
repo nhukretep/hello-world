@@ -1,8 +1,7 @@
 # Home
 
 ## Content
-[Home]
-
+[Home]  
 [About]
 
 ## Text
